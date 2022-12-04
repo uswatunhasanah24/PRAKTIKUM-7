@@ -159,7 +159,7 @@ while True:
         print("Kode yang anda masukkan salah!")
 ```
 
-![K](https://user-images.githubusercontent.com/115516474/205492185-c4f01fe7-7f45-4c24-802e-d56b611708b0.png)
+
 
 
 ### FLAWCHART
