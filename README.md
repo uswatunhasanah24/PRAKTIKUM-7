@@ -37,7 +37,7 @@ print(d("buku"))
 1. MENAMBAHKAN DICTIONARY LALU INPUT DENGAN DATA `data={}`
 2. MEMBUAT PELUANG FUNGSI DENGAN `DEF` UNTUK MENAMPILKAN  FUNGSI
 3. LALU MENAMBAHKAN DATA NIM, NAMA, NILAI TUGAS UTS, DAN UAS. Data yang diimput akan masuk ke dictionary, data dengan Nama sebagai keys. 
-   Sedangkan nim, tugas, san uts, uas akan menjadi data valiu.
+   Sedangkan nim, tugas, uts, uas akan menjadi data valiu.
 
 ```
 x = mahasiswa = {}
@@ -56,7 +56,7 @@ def tambah():
  ![T](https://user-images.githubusercontent.com/115516474/205491861-a5e131fb-17d9-4e0d-9c74-f1d0a6f21a5b.png)
 
     
-4. Menambahkan atau melihat data. sebelum melihat data kita harus mengimpu data terlebih dahulu agar data yang udah di imput bisa ditampilkan, 
+4. Menambahkan atau melihat data. Sebelum melihat data kita harus mengimput data terlebih dahulu agar data yang sudah di imput bisa ditampilkan, 
 jika belum mengimput data otomatis data yang ditampilkan akan bertuliskan tidak ada.
 
 ```
@@ -86,7 +86,7 @@ def tampilkan():
  ![L](https://user-images.githubusercontent.com/115516474/205491934-5298444a-d498-498b-b09b-e5d60a3c3323.png)
 
  
- 5. Apabila ingin menghapus data maka kita akan diminta untuk mengimput nama terlebihdahulu, lalu data yang telah diimput akan dihapus 
+ 5. Apabila ingin menghapus data maka kita akan diminta untuk mengimput nama terlebih dahulu, lalu data yang telah diimput akan dihapus 
  bersama nim, nilai tugas, nilai uts, nilai uas.
  
  
@@ -105,7 +105,7 @@ def tampilkan():
  ![H](https://user-images.githubusercontent.com/115516474/205492015-e3ae1c25-c808-49b9-a65f-ce68daa7763b.png)
  
 
- 6. Apabila ingin mengubah data, kita diminta untuk mengimput nama terlebihdahulu, barulah data bisa diubah.
+ 6. Apabila ingin mengubah data, kita diminta untuk mengimput nama terlebih dahulu, barulah data bisa diubah.
  
  ```
  def ubah():
