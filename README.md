@@ -89,7 +89,8 @@ def tampilkan():
  5. Apabila ingin menghapus data maka kita akan diminta untuk mengimput nama terlebihdahulu, lalu data yang telah diimput akan dihapus 
  bersama nim, nilai tugas, nilai uts, nilai uas.
  
- ``
+ 
+ ```
  def hapus():
     print ( "Hapus Data" )
     nama = input("Masukkan Nama Mahasiswa   : ")
@@ -97,7 +98,8 @@ def tampilkan():
         del  mahasiswa [ nama ]
     else :
         print ( "Nama {0} Tidak Ditemukan" . format ( nama ))
- ```
+
+```
  
  
  ![H](https://user-images.githubusercontent.com/115516474/205492015-e3ae1c25-c808-49b9-a65f-ce68daa7763b.png)
@@ -157,7 +159,8 @@ while True:
         print("Kode yang anda masukkan salah!")
 ```
 
-![K](https://user-images.githubusercontent.com/115516474/205492064-18169a9f-815f-47f1-8da7-9a99e2e146d7.png)
+![K](https://user-images.githubusercontent.com/115516474/205492185-c4f01fe7-7f45-4c24-802e-d56b611708b0.png)
+
 
 
 
